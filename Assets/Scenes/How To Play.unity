@@ -677,8 +677,8 @@ MonoBehaviour:
   m_Text: "Kontrol:\n\nPlayer 1:\n- Gerak bet ke kiri:\n\tTombol A\n- Gerak bet ke
     kanan:\n\tTombol S\n\nPlayer 2:\n- Gerak bet ke kiri:\n\tTombol F\n- Gerak bet
     ke kanan:\n\tTombol G\n\nPlayer 3:\n- Gerak bet ke atas:\n\tTombol U\n- Gerak
-    bet ke bawah:\n\tTombol J\n\nPlayer 4:\n- Gerak bet ke atas:\n\tTombol U\n- Gerak
-    bet ke bawah:\n\tTombol J"
+    bet ke bawah:\n\tTombol J\n\nPlayer 4:\n- Gerak bet ke atas:\n\tTombol O\n- Gerak
+    bet ke bawah:\n\tTombol L"
 --- !u!222 &806361749
 CanvasRenderer:
   m_ObjectHideFlags: 0
